@@ -5,3 +5,5 @@ public class Main {
         EntryPoint.main(args);
     }
 }
+//grafo semplice orientato e pesato
+//vertice per cui somma archi entranti-somma archi uscenti è massima
